@@ -7,7 +7,7 @@
 @license        NO-REDISTRIBUTION
 @preprocessor   uso
 ==/UserStyle== */
-@-moz-document domain("8ch.net") {
+@-moz-document domain("8ch.net"), domain("8ch.pl"), domain("vichan.net"), domain("lainchan.org"), domain("8kun.top") {
 /*-----Board Toolbar---*/
 
 /* Text and Icons */
