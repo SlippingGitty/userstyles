@@ -12,7 +12,7 @@ ____
 * Hide Quarentine Marks
 ![Screenshot](https://raw.githubusercontent.com/SlippingGitty/userstyles/main/userstyles%20screenshots/reddit/Hide%20reddit%20stuff/164561_after.png)
 
-8chan
+# 8chan
 
 * Dark Pastel
 ![Screenshot](https://raw.githubusercontent.com/SlippingGitty/userstyles/main/userstyles%20screenshots/8chan%20screenshots/Dark%20Pastel/148948_additional_28104.jpeg)
@@ -21,7 +21,7 @@ ____
 ![Screenshot](https://raw.githubusercontent.com/SlippingGitty/userstyles/main/userstyles%20screenshots/8chan%20screenshots/Blackboard%20Seaweed/148875_after.png)
 
 
-Notabug
+# Notabug
 
 * Full Notabug Vote Tallies
 ![Screenshot](https://raw.githubusercontent.com/SlippingGitty/userstyles/main/userstyles%20screenshots/notabug/162457_after.jpeg)
