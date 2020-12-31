@@ -12,7 +12,7 @@ ____
 * Hide Quarentine Marks
 ![Screenshot](https://raw.githubusercontent.com/SlippingGitty/userstyles/main/userstyles%20screenshots/reddit/Hide%20reddit%20stuff/164561_after.png)
 
-# 8chan
+# 8chan/8kun
 
 * Dark Pastel
 ![Screenshot](https://raw.githubusercontent.com/SlippingGitty/userstyles/main/userstyles%20screenshots/8chan%20screenshots/Dark%20Pastel/148948_additional_28104.jpeg)
