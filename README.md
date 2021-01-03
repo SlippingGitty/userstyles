@@ -4,6 +4,7 @@ ____
 # reddit 
 
 * Dark Pastel
+
 ![Screenshot](https://raw.githubusercontent.com/SlippingGitty/userstyles/main/userstyles%20screenshots/reddit/Dark%20Pastel/148580_after.jpeg)
 
 * Hide reddit Arrows and Scores
