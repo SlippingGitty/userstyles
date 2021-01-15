@@ -3,8 +3,8 @@
 @namespace      USO Archive
 @author         SlippingGitty
 @description    `This theme is built on top of Tomorrow, so be sure the select that in [Options] > Themes, and check "Apply to all boards". If there is anything I missed, feel free to tell me and/or edit the CSS yourself. I tried to keep it as simple as possible so others could take it and make their own themes.`
-@version        20191223.1.15
-@license        NO-REDISTRIBUTION
+@version        20210115.0.1
+@license        DWTFYWT
 @preprocessor   uso
 ==/UserStyle== */
 @-moz-document domain("8ch.net"), domain("8ch.pl"), domain("vichan.net"), domain("lainchan.org"), domain("8kun.top") {
@@ -27,9 +27,6 @@ div.boardlist a {
 div.post.reply {
     background-color: #1e0b38;
     border: 1px solid #1e0b38;
-    margin-bottom: 2px;
-    margin-left: 16px;
-    margin-top: 2px;
 }
 
 /* OP */
@@ -62,7 +59,6 @@ p.intro span.name {
 p.intro a.capcode,
 p.intro a.nametag {
     color: red;
-    margin-left: 0;
 }
 
 /* Main Text */
@@ -112,11 +108,8 @@ div.banner {
 
 /* Border */
 hr {
-    border: none;
-    border-top: 1px solid #ffffff00;
+    border-top: 0px solid #ffffff00;
     height: 0;
-    clear: left;
-    display: none;
 }
 
 /* Pages */
