@@ -1,30 +1,30 @@
 @-moz-document domain("catbox.moe") {
 /* Animeisnt */
 div.image {
-display: none;
+    display: none;
 }
 
 /* Body */
 body {
-	  background: #d0cabc;
-	  background-color: #d4d0c8;
-	  border-bottom: 1px solid #848484;
-	  border-right: 1px solid #848484;
-	  border-top: 1px solid #fff;
-	  border-left: 1px solid #fff;
+    background: #d0cabc;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
 }
 
 
 /* Select */
 form.dz-clickable {
-      color: #000;
-	  background: #d4d0c8;
-	  background-color: #c4c1bc;
-	  border-bottom: 1px solid #fff;
-	  border-right: 1px solid #fff;
-	  border-top: 1px solid #848484;
-	  border-left: 1px solid #848484;
-      border-radius: 0px;
+    color: #000;
+    background: #d4d0c8;
+    background-color: #c4c1bc;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #848484;
+    border-left: 1px solid #848484;
+    border-radius: 0px;
 }
 div.dz-message {
     color: black;
@@ -52,44 +52,44 @@ div.dz-preview {
     padding: 5px;
     border: 1px solid #3F8694;
     border-radius: 0px;
-      color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
-	  border-bottom: 1px solid #848484;
-	  border-right: 1px solid #848484;
-	  border-top: 1px solid #fff;
-	  border-left: 1px solid #fff;
+    color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
 }
 div.responseText {
-      color: #000;
-	  background: #d4d0c8;
-	  background-color: #fff;
-	  border-bottom: 1px solid #848484;
-	  border-right: 1px solid #848484;
-	  border-top: 1px solid #fff;
-	  border-left: 1px solid #fff;
-      border-radius: 0px;
-      box-shadow: inset 1px 1px 1px #0000005c;
+    color: #000;
+    background: #d4d0c8;
+    background-color: #fff;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-radius: 0px;
+    box-shadow: inset 1px 1px 1px #0000005c;
 }
 
 /* The dev is such a weeb seriously wtf */
 button.urlUpSubmit {
-      color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
-	  border-bottom: 1px solid #848484;
-	  border-right: 1px solid #848484;
-	  border-top: 1px solid #fff;
-	  border-left: 1px solid #fff;
-      border-radius: 0px;
+    color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-radius: 0px;
 }
 input[name="url"] {
-	  border-bottom: 1px solid #fff;
-	  border-right: 1px solid #fff;
-	  border-top: 1px solid #848484;
-	  border-left: 1px solid #848484;
-      background-color: white;
-      color: white;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #848484;
+    border-left: 1px solid #848484;
+    background-color: white;
+    color: white;
 }
 input[type="text"]:focus {
     color: black;
@@ -97,6 +97,6 @@ input[type="text"]:focus {
 
 /* DONATE TO CATBOX PLS */
 .notetiny {
-    display:none;
+    display: none;
 }
 }
