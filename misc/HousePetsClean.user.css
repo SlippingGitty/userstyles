@@ -1,0 +1,13 @@
+@-moz-document domain("housepetscomic.com") {
+.mh-widget {
+    background: #fff0;
+}
+
+.mh-content-wrapper {
+    background: #fff0;
+}
+
+.mh-footer, .mh-container-inner, .pum-overlay.pum-overlay-disabled, .pum-container, .mh-widget-inner {
+display: none;
+}
+}
