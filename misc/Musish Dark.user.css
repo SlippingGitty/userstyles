@@ -1,0 +1,195 @@
+
+@-moz-document domain("musi.sh") {
+/* -----------the main font color------------------------*/
+
+a {
+    color: #ff00008f;
+}
+
+
+
+/* ------------sidebar--------------------- */
+._4ed7 {
+    background: #000;
+    border-right: 2px solid #000;
+    background-color:black
+}
+
+._4ed7 ._72ce ._3d7f {
+    background: #000;
+    border: 1px solid #000;
+}
+
+._4ed7 ._72ce ._3d7f ul li a._40a8 {
+    background: #0a0808;
+    border: 1px solid #584d4d;
+    color: #a5a4a4;
+}
+
+.d788 ul, .d788 ul li {
+    background-color: black;
+}
+
+._3bf9 .d1f2:before {
+    background: hsl(0deg 0% 0% / 50%);
+}
+
+/* --------player------ */
+
+._7312 {
+    background: #000000;
+    padding: 20px 15px;
+}
+
+/* ---pause/play--- */
+._7312 ._4af2>span {
+    color: #923333;
+}
+
+/* --------------------body--------------- */
+body {
+    background: #000;
+    color: #a0a0a0;
+}
+
+/* ---------header-------- */
+
+._1d4f {
+    background: #000;
+    box-shadow: 0 3px 2px -2px rgba(0,0,0,.1);
+}
+
+/* ----logo---- */
+._1d4f .dcfd a {
+    color: #f42651;
+}
+
+/* --------search-------*/
+.f82d ._8a29 ._3afe {
+    background: #000;
+    box-shadow: 0 8px 36px -10px hsl(0deg 100% 50% / 40%);
+}
+
+.f82d ._8a29 ._3afe .edf0 ._4288 ._56e4 {
+    background: #400000;
+    color: #9a9a9a;
+}
+
+.f82d ._8a29 button, .f82d ._8a29 input {
+    color: #f42651;
+    background: #271818;
+    border: 1px solid #000;
+}
+
+/* -------------the music box thing------------*/
+
+._1a01 .affd {
+    background: #0e0b0b;
+    box-shadow: 0 8px 36px -10px hsl(0deg 0% 0% / 75%);
+}
+
+/*---- shadow ---- */
+
+._1a01 {
+    background: hsl(0deg 0% 0% / 50%);
+}
+
+/* ------buttons----- */
+
+._665d .e8f7 .ac5c {
+    border-color: #ff0000;
+    background: #c31313;
+    color: #fff;
+}
+
+._086c ._76a3 .f003 .d4a7 ._2bcf ._8e04 {
+    border-color: #ff0000;
+    background: #ff0000;
+    color: #fff;
+}
+
+/* ---song title ---*/
+
+._3bf9 .b7a3 .a83a {
+    color: #aaa9a9;
+}
+
+._646c {
+    background: hsl(0deg 0% 0% / 0%);
+}
+
+
+
+/* -----right click menu----- */
+
+react-contextmenu {
+    background: #0a0a0a;
+    box-shadow: 0 3px 8px -2px rgb(14 0 0 / 0%);
+}
+
+.react-contextmenu {
+    border: 1px solid #5e5a5a85;
+    color: #d43636;
+}
+
+._2270 ._9cca h2, ._2270 ._9cca h3 {
+    font-size: 12px;
+    color: #ff6a6a;
+    font-weight: 400;
+}
+
+/* ------------------ up next -----------------------*/
+.e7c0 ._0725 {
+    background-color: black;
+}
+
+.e7c0>div {
+    background-color: black;
+}
+
+.e7c0 ._0725>span._8ba9 {
+    color: #d2cece;
+}
+
+.e7c0 {
+    border-bottom: 1px solid #000000;
+    background: #000;
+    color: #333;
+}
+
+._1eab {
+    margin: 0px;
+}
+
+
+/*---------------browse----------*/
+
+._9ec9, ._9ec9 .e3c6 {
+    border-bottom: #000;
+}
+
+
+/*----------- stupid webkit bs -----------*/
+
+
+._7b75::-webkit-scrollbar-thumb, ._8e61::-webkit-scrollbar-thumb, ._3068::-webkit-scrollbar-thumb, ._3117::-webkit-scrollbar-thumb {
+    background: #ff446357;
+}
+
+._7b75::-webkit-scrollbar-track, ._8e61::-webkit-scrollbar-track, ._3068::-webkit-scrollbar-track, ._3117::-webkit-scrollbar-track {
+    background: #3321218c;
+}
+._7b75::-webkit-scrollbar-track, ._8e61::-webkit-scrollbar-track, ._3068::-webkit-scrollbar-track, ._3117::-webkit-scrollbar-track {
+    background: #3321218c;
+}
+
+._6fe4::-webkit-scrollbar-corner, .f9ee::-webkit-scrollbar-corner, .fc11::-webkit-scrollbar-corner {
+    display: none;
+}
+._6fe4::-webkit-scrollbar-thumb, .f9ee::-webkit-scrollbar-thumb, .fc11::-webkit-scrollbar-thumb {
+    background: #9c2438;
+}
+._6fe4::-webkit-scrollbar-track, .f9ee::-webkit-scrollbar-track, .fc11::-webkit-scrollbar-track {
+    background: #1c1212;
+}
+}
