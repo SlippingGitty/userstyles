@@ -1,4 +1,15 @@
+/* ==UserStyle==
+@name           Dark Musish
+@namespace      USO Archive
+@author         SlippingGitty
+@description    `Musish but dark`
+@version        2021.03.14
+@license        DWYPL
+@preprocessor   uso
+==/UserStyle== */
 @-moz-document domain("musi.sh") {
+
+
 /* -----------the main font color------------------------*/
 
 a {
