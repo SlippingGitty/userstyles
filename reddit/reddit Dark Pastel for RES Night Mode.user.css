@@ -1,11 +1,10 @@
 /* ==UserStyle==
-@name           reddit Dark Pastel (For RES Night Mode)
-@namespace      USO Archive
+@name           Dark Pastel
+@namespace      SlippingGitty
 @author         SlippingGitty
-@description    `THE HEXES USED IN THIS THEME ARE FROM AND INSPIRED BY A REDDIT SYNC THEME BY /u/dudinacas. YOU CAN SEE THE THREAD HERE: https://redd.it/6fjms0. ALSO NOTE THAT THIS WILL NOT WORK WITH THE UPCOMING REDESIGN. I WILL CONTINUE WORKING ON THIS FOR LEGACY USERS THOUGH.I originally gave up making this theme when I deleted my old reddit account, but decided to keep working on it after I realized that I prefer this color pallet over the actual RES Dark Theme color.I recommend turning on  autoColorUsernames in RES (under https://www.reddit.com/prefs/#res:settings/userHighlight), and checking "Random color, not too bright, consistent for each user) just for aesthetics.`
-@version        2019530.18.34
-@license        NO-REDISTRIBUTION
-@preprocessor   uso
+@description    Dark Pastel color palatte for RES Night Mode
+@version        1.0.0
+@license        MIT
 ==/UserStyle== */
 @-moz-document domain("reddit.com") {
 /* Header*/
