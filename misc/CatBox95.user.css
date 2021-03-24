@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name           CatBox95
+@namespace      USO Archive
+@author         SlippingGitty
+@description    `CatBox95 but clean.`
+@version        201818.4.0
+@license        MIT
+@preprocessor   uso
+==/UserStyle== */
 @-moz-document domain("catbox.moe") {
 /* Animeisnt */
 div.image {
