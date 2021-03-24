@@ -1,11 +1,10 @@
 /* ==UserStyle==
 @name           Classic Reddit
-@namespace      USO Archive
+@namespace      SlippingGitty
 @author         SlippingGitty
-@description    `A collaboration style I made with a few people/people's help.* Posts show full post scores. (10.5k = 10,500)* Old reddit thumbnails! Now everything doesn't look uniformed.* Removed Multireddit sidebar* Hide Arrows when post is archivedRead more here: https://ghostbin.com/paste/rps7s(Credit to some of the snipits I didnt make are in the CSS)`
-@version        201919.4.3
-@license        NO-REDISTRIBUTION
-@preprocessor   uso
+@description    Dark Pastel color palatte for RES Night Mode. (Only works on Chrome)
+@version        1.0.0
+@license        MIT
 ==/UserStyle== */
 @-moz-document domain("reddit.com") {
 /* old reddit icons */
