@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           Reddit without the sidebar
+@namespace      SlippingGitty
+@author         SlippingGitty
+@description    Will probably break, just makes new reddit wide and removes sidebar.
+@version        1.0.0
+==/UserStyle== */
+@-moz-document domain("reddit.com") {
+._1BFbVxT49QnrAN3fqGZ1z8._1tvThPWQpORoc2taKebHxs {
+    display: none;
+}
+
+._1OVBBWLtHoSPfGCRaPzpTf._3nSp9cdBpqL13CqjdMr2L_ {
+    width: 1500px;
+}
+}
