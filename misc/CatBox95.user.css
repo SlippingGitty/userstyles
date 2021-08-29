@@ -107,4 +107,9 @@ input[type="text"]:focus {
 .notetiny {
     display: none;
 }
+
+/* No more tiny warning */
+.notetinywarning {
+    display: none;
+}
 }
