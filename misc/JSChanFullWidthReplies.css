@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name           (animaymay) jschan full-width replies
+@namespace      animaymay.xyz
+@version        1.0.0
+@description    Fullwidth replies on JSChan-sites
+@author         SlippingGitty
+==/UserStyle== */
+
+@-moz-document domain("animaymay.xyz") {
 .post-container {
     min-width: -webkit-fill-available;
+}
 }
