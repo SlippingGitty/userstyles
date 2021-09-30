@@ -1,0 +1,50 @@
+/* ==UserStyle==
+@name         Animaymay Config (Tomorrow)
+@version      20210930.17.28
+@description  Personal Animaymay.xyz config
+@author       slippinggitty
+@license      No License
+==/UserStyle== */
+@-moz-document domain("animaymay.xyz") {
+    .post-container {
+        min-width: 100%;
+        border-radius: 3px !important;
+        border: 1px solid #373B41;
+    }
+
+    .user-id {
+        padding: 0px 5px;
+        border-radius: 8px;
+        text-shadow: none;
+        color: rgb(0, 0, 0);
+    }
+
+    .nav-item {
+        line-height: 2em;
+        text-decoration: underline;
+    }
+
+    .navbar {
+        background: linear-gradient(rgb(55, 57, 61), rgba(40, 42, 46, 0.9)) !important;
+    }
+    
+    a.nav-item {
+        color: #81a2be;
+    }
+
+    div.pages {
+        border-radius: 3px !important;
+        border: 1px solid #373B41;
+    }
+
+    a.collapse.no-decoration {
+        background: linear-gradient(rgb(55, 57, 61), rgba(40, 42, 46, 0.9)) !important;
+        color: #C5C8C6;
+        border-radius: 3px;
+        padding: 6px 10px 5px;
+        font-weight: bold;
+        vertical-align: middle;
+        border-style: solid;
+        border-width: 1px;
+    }
+}
