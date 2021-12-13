@@ -1,10 +1,13 @@
 /* ==UserStyle==
-@name           Dark Musish
-@namespace      USO Archive
-@author         SlippingGitty
-@description    `Musish but dark`
-@license        WTFPL
-@preprocessor   uso
+@name         Dark Musish
+@namespace    https://github.com/SlippingGitty/userstyles
+@description  Musish but dark
+@author       SlippingGitty (https://github.com/SlippingGitty/)
+@homepageURL  https://github.com/SlippingGitty/userstyles/blob/main/misc/MusishDark.user.css
+@supportURL   https://github.com/SlippingGitty/userstyles/issues
+@version      1.0
+@license      WTFPL
+@preprocessor stylus
 ==/UserStyle== */
 @-moz-document domain("musi.sh") {
 
