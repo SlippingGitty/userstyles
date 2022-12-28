@@ -1,4 +1,12 @@
 @-moz-document domain("noc.social"), domain("mastodon.social"), domain("universeodon.com") {
+        /* ==UserStyle==
+    @name         Lights On for Mastodon
+    @description  A light, bright, white theme.
+    @author       Vozer
+    @namespace    https://github.com/SlippingGitty/userstyles
+    @version      1.0.0
+    ==/UserStyle== */
+ 
 @import url('https://slippinggittys-discord-Themes.github.io/Espresso-Discord-Theme/themes/light/newspaper.css');
 
 
