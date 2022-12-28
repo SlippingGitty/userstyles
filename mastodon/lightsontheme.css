@@ -240,7 +240,7 @@ span,
 
 .compose-form .autosuggest-textarea__textarea,
 .compose-form .spoiler-input__input {
-    color: var(--PGColorTextD);
+    color: black;
     background-color: var(--PGBackground2);
 }
 }
